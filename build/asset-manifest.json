@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/matthewnads/calculator.git/static/css/main.732188e3.chunk.css",
-    "main.js": "/matthewnads/calculator.git/static/js/main.0a9c5c5b.chunk.js",
-    "main.js.map": "/matthewnads/calculator.git/static/js/main.0a9c5c5b.chunk.js.map",
-    "runtime-main.js": "/matthewnads/calculator.git/static/js/runtime-main.1eaf5eb3.js",
-    "runtime-main.js.map": "/matthewnads/calculator.git/static/js/runtime-main.1eaf5eb3.js.map",
-    "static/js/2.2bc7b09c.chunk.js": "/matthewnads/calculator.git/static/js/2.2bc7b09c.chunk.js",
-    "static/js/2.2bc7b09c.chunk.js.map": "/matthewnads/calculator.git/static/js/2.2bc7b09c.chunk.js.map",
-    "static/js/3.c99fd959.chunk.js": "/matthewnads/calculator.git/static/js/3.c99fd959.chunk.js",
-    "static/js/3.c99fd959.chunk.js.map": "/matthewnads/calculator.git/static/js/3.c99fd959.chunk.js.map",
-    "index.html": "/matthewnads/calculator.git/index.html",
-    "static/css/main.732188e3.chunk.css.map": "/matthewnads/calculator.git/static/css/main.732188e3.chunk.css.map",
-    "static/js/2.2bc7b09c.chunk.js.LICENSE.txt": "/matthewnads/calculator.git/static/js/2.2bc7b09c.chunk.js.LICENSE.txt"
+    "main.css": "/calculator/static/css/main.732188e3.chunk.css",
+    "main.js": "/calculator/static/js/main.0a9c5c5b.chunk.js",
+    "main.js.map": "/calculator/static/js/main.0a9c5c5b.chunk.js.map",
+    "runtime-main.js": "/calculator/static/js/runtime-main.687e3564.js",
+    "runtime-main.js.map": "/calculator/static/js/runtime-main.687e3564.js.map",
+    "static/js/2.655a1eff.chunk.js": "/calculator/static/js/2.655a1eff.chunk.js",
+    "static/js/2.655a1eff.chunk.js.map": "/calculator/static/js/2.655a1eff.chunk.js.map",
+    "static/js/3.c99fd959.chunk.js": "/calculator/static/js/3.c99fd959.chunk.js",
+    "static/js/3.c99fd959.chunk.js.map": "/calculator/static/js/3.c99fd959.chunk.js.map",
+    "index.html": "/calculator/index.html",
+    "static/css/main.732188e3.chunk.css.map": "/calculator/static/css/main.732188e3.chunk.css.map",
+    "static/js/2.655a1eff.chunk.js.LICENSE.txt": "/calculator/static/js/2.655a1eff.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.1eaf5eb3.js",
-    "static/js/2.2bc7b09c.chunk.js",
+    "static/js/runtime-main.687e3564.js",
+    "static/js/2.655a1eff.chunk.js",
     "static/css/main.732188e3.chunk.css",
     "static/js/main.0a9c5c5b.chunk.js"
   ]
